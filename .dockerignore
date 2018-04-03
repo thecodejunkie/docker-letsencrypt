@@ -1,0 +1,13 @@
+# Directories
+.git/
+node_modules/
+
+# Dotfiles
+.dockerignore
+.editorconfig
+.gitignore
+
+# Project files
+Dockerfile
+LICENCE
+README.md
