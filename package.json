@@ -1,0 +1,20 @@
+{
+    "name": "docker-letsencrypt",
+    "version": "0.1.0",
+    "description": "Dockerfile for issuing Let's Encrypt certificates from inside a container",
+    "main": "app.js",
+    "keywords": [
+        "docker",
+        "letsencrypt",
+        "certbot"
+    ],
+    "author": "Andreas Håkansson",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thecodejunkie/docker-letsencrypt"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
